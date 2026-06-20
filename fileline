@@ -1,0 +1,7 @@
+echo "enter the name of file"
+read filename
+x=$(cat $filename)
+for i in $x
+do
+  echo "$i"
+done
