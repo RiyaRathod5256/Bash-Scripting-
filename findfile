@@ -3,3 +3,4 @@ read filename
 wc -l $filename
 wc -w $filename
 wc -m $filename
+hello
